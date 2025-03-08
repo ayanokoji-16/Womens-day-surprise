@@ -3,11 +3,12 @@ body {
   /* background: rgb(0, 0, 0); */
   overflow: hidden;
   margin: 0;
-  background-color: #ff1e7c;
+  /*background-color: #ff1e7c;
 
-  background: linear-gradient(rgba(255, 255, 255, 0.77), rgba(255, 39, 125, 0.84)), url('./img/background.jpg');
+  background: linear-gradient(rgba(255, 255, 255, 0.77), rgba(255, 39, 125, 0.84)), url('./img/background.jpg');*/
 
-  
+   background-image: url("./img/background.jpg");
+   background-size: cover;
 }
 
 canvas {
